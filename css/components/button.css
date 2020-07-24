@@ -1,0 +1,17 @@
+.btn-yellow {
+	color: white;
+	background-color: #FFC107;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: Montserrat;
+}
+
+.btn-purple {
+	color: white;
+	background-color: purple;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: Montserrat;
+}

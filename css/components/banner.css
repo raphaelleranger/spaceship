@@ -1,0 +1,16 @@
+.banner {
+	background-image: linear-gradient(-225deg, #ffeb3b00 16%, #ffffff36 68%), url(../../images/nasa.jpg);
+	color: white;
+	padding: 150px 0px;
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
